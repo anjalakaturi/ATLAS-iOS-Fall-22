@@ -1,2 +1,15 @@
 name: Anjala Katuri
-personal_project: plant
+
+repo_names:
+  - plant
+  - StarWars
+
+# Provide any URLs for your Videos
+10-ux-ui-criticism:
+  - http://https://drive.google.com/drive/folders/1zDZQMvTT0umzorFG-j9v1jc1enEWDCxX?usp=sharing 
+
+# Provide any URLs for your Data Models assignment
+11-models-from-data:
+  - https://github.com/anjalakaturi/plant/blob/main/PlantTracker/PlantTracker/Models/Data%2B.swift
+  - https://github.com/anjalakaturi/plant/blob/main/PlantTracker/PlantTracker/Models/plantFile.json
+  - https://github.com/anjalakaturi/plant/blob/main/PlantTracker/PlantTracker/Models/plantData.swift
